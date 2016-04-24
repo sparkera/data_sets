@@ -1,4 +1,4 @@
-FIRST_NAME,LAST_NAME,EMAIL_ADDRESS,COUNTRY,GENDER,AGE,PEREFERRED_COLOR,MONTHLY_SPENDING,CREDIT_CARDS,
+FIRST_NAME,LAST_NAME,EMAIL_ADDRESS,COUNTRY,GENDER,AGE,PREFERRED_COLOR,MONTHLY_SPENDING,CREDIT_CARDS,
 Melissa,Ramos,mramos0@mit.edu,Canada,Female,56,Khaki,9330.85,americanexpress,
 Janet,Baker,jbaker1@sfgate.com,Indonesia,Female,68,Purple,6719.7,visa-electron,
 Michelle,Hanson,mhanson2@amazon.com,United States,Female,45,Orange,703.34,mastercard,
